@@ -1,4 +1,4 @@
-package stream04;
+package stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Code01 {
+public class Stream04 {
 
     public static void main(String[] args) {
         List<Dish> menu = Arrays.asList(

@@ -1,4 +1,4 @@
-package stream04;
+package stream;
 
 
 public class Dish {
